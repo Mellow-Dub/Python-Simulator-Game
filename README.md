@@ -22,4 +22,4 @@ Progress:
 -[ ] Part 6
 -[ ] Part 7 (Final)
 
-Note: Also the projects get more advanced as i continue working on it and this is a demo game. Never enter real passwords, account details, or other private information
+Note: Also the projects get more advanced as i continue working on it and this is a demo game. Never enter real passwords, account details, or other private information and also if there are any bugs just leave a comment so i can update it and fix it
