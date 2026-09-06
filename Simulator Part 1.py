@@ -8,10 +8,10 @@ print ("Alright what do you want to do first? Maybe Youtube or Paint? \n")
 choice = input()
 
 
-if choice == "Youtube" or "youtube":
+if choice == "Youtube" or choice == "youtube":
     print ("You are watching a cat dance \n")
 
-elif choice == "Paint" or "paint":
+elif choice == "Paint" or choice == "paint":
     print ("You are drawing a circle \n")
 
 else:
@@ -23,9 +23,9 @@ print ("Great! That was fun, but there are still more to do! \n")
 print ("Huh, your hungry? i got food at home! look in my fridge \n")
 choice_2 = input("Now choose, Soup or Burger? \n")
 
-if choice_2 == "Soup" or "soup":
+if choice_2 == "Soup" or choice_2 == "soup":
     print ("Huh i though you will pick the burger but whatever. Atleast your healthy!\n")
-elif choice_2 == "Burger" or "burger":
+elif choice_2 == "Burger" or choice_2 == "burger":
     print ("Quite unhealthy but atleast your not hungry! \n")
 else:
     while choice_2 not in ["Soup" , "soup" , "burger" , "Burger"]:
