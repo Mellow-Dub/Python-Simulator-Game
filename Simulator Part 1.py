@@ -1,7 +1,7 @@
 #Sign up Simulator Part 1
 
 print ("Hello and Welcome to my website! please sign up \n")
-userbane = input ("Please enter your username \n")
+usernane = input ("Please enter your username \n")
 password = input ("Please enter your password \n")
 
 print ("Alright what do you want to do first? Maybe Youtube or Paint? \n")
