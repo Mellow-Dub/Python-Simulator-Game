@@ -11,11 +11,12 @@ What i learning about python:
 -Basic Git & GitHub
 -While Loops
 -For Loops
+-Imports
 
 Progress:
 
 -[X] Part 1 (Demo)
--[ ] Part 2
+-[X] Part 2
 -[ ] Part 3
 -[ ] Part 4
 -[ ] Part 5
